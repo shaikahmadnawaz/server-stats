@@ -32,8 +32,6 @@ Visit the project page for more information: [Server Stats Project](https://road
    cd server-stats
    ```
 
-````
-
 2. **Make the Script Executable**
 
    Give execution permission to the script:
@@ -59,6 +57,10 @@ Visit the project page for more information: [Server Stats Project](https://road
    ```bash
    sudo ./server-stats.sh
    ```
+
+## Output
+
+![Output](./assets/image.png)
 
 ## Sample Output
 
@@ -124,4 +126,3 @@ username  pts/1     2023-10-12 21:11
 1. **Project Page**: Provides a link to the project page URL as requested.
 2. **How to Run**: Step-by-step instructions for setting up and running the script.
 3. **Optional Stats**: Mentions the requirement of root privileges for failed login attempts.
-````
