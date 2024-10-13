@@ -1,4 +1,4 @@
-# Server Performance Stats Script
+# [Server Performance Stats Script](https://roadmap.sh/projects/server-stats)
 
 This project provides a script to analyze basic server performance stats on any Linux server. It gives you essential server information such as CPU usage, memory usage, disk usage, and top processes. Additionally, it can display OS version, uptime, load average, logged-in users, and failed login attempts.
 
@@ -10,10 +10,6 @@ This project provides a script to analyze basic server performance stats on any 
 - **Top 5 Processes by CPU Usage**: Lists the top 5 processes consuming the most CPU.
 - **Top 5 Processes by Memory Usage**: Lists the top 5 processes consuming the most memory.
 - **Optional Stats**: Includes additional information such as OS version, uptime, load average, logged-in users, and failed login attempts (requires root privileges).
-
-## Project Page
-
-Visit the project page for more information: [Server Stats Project](https://roadmap.sh/projects/server-stats)
 
 ## Requirements
 
